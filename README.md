@@ -1,15 +1,22 @@
 # Data Science
 
-Uma breve descrição do que o projeto faz e seu objetivo.
+## Uma breve descrição do que o projeto faz e seu objetivo.
+1 - Coleta de Dados
+2 - Limpeza e Pré-processamento:
+3 - Análise de Dados:
+4 - Modelagem:
+5 - Visualização de Dados:
+6 - Tomada de Decisões:
+7 - Atualização Contínua:
+
+
 
 ## Índice
 
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
-
+Negócios: Análise de mercado, previsão de vendas e otimização de operações.
+Saúde: Análise de dados clínicos e desenvolvimento de tratamentos personalizados.
+Finanças: detecção de fraudes, avaliação de risco e estratégias de investimento.
+Ciências Sociais: Pesquisa de opinião, análise de tendências e pesquisa social.
 ## Instalação
 
 cd nome-do-repositorio
