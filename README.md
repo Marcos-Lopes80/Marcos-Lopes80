@@ -1,9 +1,5 @@
-## Hi there 
 git clone https://github.com/seu-usuario/nome-do-hub.git
-
 cd nome-do-hub/projeto-exemplo
-
-
 
 ## Skills
 
