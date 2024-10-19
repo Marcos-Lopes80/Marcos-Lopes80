@@ -1,5 +1,4 @@
-
-git checkout -b minha-feature).
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
 ## Skills
 
