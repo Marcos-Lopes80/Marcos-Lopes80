@@ -1,8 +1,8 @@
-git checkout -b nova-funcionalidade
+[git checkout -b nova-funcionalidade
 git add .
 git commit -m "Descrição das mudanças"
 git push origin nova-funcionalidade
-
+](https://dev.to/envoy_/150-badges-for-github-pnk Ícones https://devicon.dev/)
 
 ## Skills
 
