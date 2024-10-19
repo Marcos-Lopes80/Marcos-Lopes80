@@ -1,6 +1,7 @@
-## Hi there 👋 git clone 
+## Hi there 
+git clone https://github.com/seu-usuario/nome-do-hub.git
 
-https://github.com/seu-Marcos-Lopes8/nome-do-hub.git
+cd nome-do-hub/projeto-exemplo
 
 
 
