@@ -1,5 +1,8 @@
-git clone https://github.com/seu-usuario/nome-do-hub.git
-cd nome-do-hub/projeto-exemplo
+git checkout -b nova-funcionalidade
+git add .
+git commit -m "Descrição das mudanças"
+git push origin nova-funcionalidade
+
 
 ## Skills
 
